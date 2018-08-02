@@ -1,4 +1,4 @@
-String name = "Susan" 
+var name = "Susan" 
 var height = "74" 
 
 
